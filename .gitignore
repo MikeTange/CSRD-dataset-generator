@@ -1,3 +1,4 @@
 # Set-up files to ignore
 APIkey.txt
 /Factset data
+*xlsx
